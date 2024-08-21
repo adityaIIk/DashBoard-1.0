@@ -15,7 +15,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine. This p
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/<your-username>/Dashboard-1.0.git
+   https://github.com/adityaIIk/DashBoard-1.0.git
    
    cd Dashboard
 2. ### Install Dependencies
