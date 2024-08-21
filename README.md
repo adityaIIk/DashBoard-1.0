@@ -23,5 +23,5 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine. This p
 
 3. ### Scripts
 
-  npm run dev
+   npm run dev
 
