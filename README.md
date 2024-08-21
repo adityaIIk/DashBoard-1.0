@@ -17,10 +17,10 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine. This p
    ```sh
    git clone https://github.com/<your-username>/Dashboard-1.0.git
    cd Dashboard
-### Install Dependencies
+2. ### Install Dependencies
    npm install
 
-### Scripts
+3. ### Scripts
 
   npm run dev
 
