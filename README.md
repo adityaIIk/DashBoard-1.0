@@ -1,8 +1,26 @@
-# React + Vite
+# Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project is a React-based dashboard application using Vite for development and build tooling. It includes configuration for ESLint and TailwindCSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) installed on your machine. This project uses `npm` as the package manager.
+
+### Installation
+
+1. **Clone the Repository**
+
+   ```sh
+   git clone https://github.com/<your-username>/Dashboard-1.0.git
+   cd Dashboard
+### Install Dependencies
+   npm install
+
+### Scripts
+
+  npm run dev
+
