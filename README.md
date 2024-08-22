@@ -10,11 +10,11 @@ This project is a React-based dynamic dashboard application built with Vite for 
 - State Management: Redux is used to manage the state of the application, ensuring scalability and maintainability.
 
 ## Technologies Used
--React: A JavaScript library for building user interfaces.
--Redux: A predictable state container for JavaScript apps.
--Redux Toolkit: Simplifies Redux usage with tools like createSlice and createAsyncThunk.
--TailwindCSS: A utility-first CSS framework for rapid UI development.
--Vite: A fast development build tool that provides a great developer experience.
+- React: A JavaScript library for building user interfaces.
+- Redux: A predictable state container for JavaScript apps.
+- Redux Toolkit: Simplifies Redux usage with tools like createSlice and createAsyncThunk.
+- TailwindCSS: A utility-first CSS framework for rapid UI development.
+- Vite: A fast development build tool that provides a great developer experience.
 
 ## Getting Started
 Prerequisites
