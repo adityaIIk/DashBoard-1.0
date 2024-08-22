@@ -18,31 +18,31 @@ This project is a React-based dynamic dashboard application built with Vite for 
 
 ## Getting Started
 Prerequisites
-Ensure you have Node.js installed on your machine. This project uses npm as the package manager.
+- Ensure you have Node.js installed on your machine. This project uses npm as the package manager.
 
 ## Installation
 1. Clone the Repository
-   Clone the project repository to your local machine:
+   - Clone the project repository to your local machine:
 
-   git clone https://github.com/adityaIIk/DashBoard-1.0.git
-   cd DashBoard-1.0
+   - git clone https://github.com/adityaIIk/DashBoard-1.0.git
+   - cd DashBoard-1.0
 
 2. Install Dependencies
-   npm install
+   - npm install
 
 3. Run the Development Server
-   npm run dev
+   - npm run dev
    
 ## Project Structure
-src/components: Contains all the React components used in the application, such as Dashboard, Widget, Category, etc.
-src/store.js: The Redux store configuration.
-src/index.css: The main CSS file, where TailwindCSS is imported.
-src/main.jsx: The entry point of the React application.
+- src/components: Contains all the React components used in the application, such as Dashboard, Widget, Category, etc.
+- src/store.js: The Redux store configuration.
+- src/index.css: The main CSS file, where TailwindCSS is imported.
+- src/main.jsx: The entry point of the React application.
 
 ## Usage
-Adding a Widget: Click on the + Add Widget button, fill out the form with the widget's name and text, and select the category where it should be added.
-Removing a Widget: Each widget has a cross icon (X) that can be clicked to remove the widget from its category.
-Searching for a Widget: Use the search bar to find widgets by name across all categories.
+- Adding a Widget: Click on the + Add Widget button, fill out the form with the widget's name and text, and select the category where it should be added.
+- Removing a Widget: Each widget has a cross icon (X) that can be clicked to remove the widget from its category.
+- Searching for a Widget: Use the search bar to find widgets by name across all categories.
 
 
 
