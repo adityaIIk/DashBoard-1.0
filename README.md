@@ -12,7 +12,7 @@ This project is a React-based dynamic dashboard application built with Vite for 
 ## Technologies Used
 - React: A JavaScript library for building user interfaces.
 - Redux: A predictable state container for JavaScript apps.
-- Redux Toolkit: Simplifies Redux usage with tools like createSlice and createAsyncThunk.
+- Redux Toolkit: Simplifies Redux usage with tools like createSlice and configureStore.
 - TailwindCSS: A utility-first CSS framework for rapid UI development.
 - Vite: A fast development build tool that provides a great developer experience.
 
